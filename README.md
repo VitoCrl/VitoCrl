@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working for [Uania](https://uania.com)
 
-- 🌱 I’m currently learning **Everything possible to ride the IT wave**
+- 🌱 I’m currently learning **Everything possible to ride the IT wave focusing especially on cybersecurity**
 
 - 👨‍💻 All of my projects are available at [omh84.it](https://omh84.it)
 
