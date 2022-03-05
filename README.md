@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omega" alt="omega" /></a> </p>
 
-- 🔭 I’m currently working for [Uania](uania.com)
+- 🔭 I’m currently working for [Uania](https://uania.com)
 
 - 🌱 I’m currently learning **Everything possible to ride the IT wave**
 
-- 👨‍💻 All of my projects are available at [omh84.it](omh84.it)
+- 👨‍💻 All of my projects are available at [omh84.it](https://omh84.it)
 
 - 💬 Ask me about **Anything powered by electricity**
 
