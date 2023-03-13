@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Anything powered by electricity**
 
-- 📫 How to reach me **info@omh84.it**
+- 📫 How to reach me **vito@carolillo.it**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/vito-carolillo/](https://www.linkedin.com/in/vito-carolillo/)
 
