@@ -3,11 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omega&label=Profile%20views&color=0e75b6&style=flat" alt="omega" /> </p>
 
-- 🔭 I’m currently working for [Uania](https://uania.com)
-
 - 🌱 I’m currently learning **Everything possible to ride the IT wave focusing especially on cybersecurity**
-
-- 👨‍💻 All of my projects are available at [carolillo.it](https://carolillo.it)
 
 - 💬 Ask me about **Anything powered by electricity**
 
